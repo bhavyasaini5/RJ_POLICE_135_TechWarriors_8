@@ -46,8 +46,8 @@ Deepfake_detection_using_deep_learning
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## 8. We welcome Open Source Contribution. 
-### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
+## 6. We welcome Open Source Contribution. 
+###Below are the some changes that can be applied to the project. New Ideas will be appreciated.
 - [ ] Deploying the applications in free cloud 
 - [ ] Creating open source API for detection
 - [ ] Batch processing of entire video instead of processing first 'x' frames.
